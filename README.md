@@ -70,3 +70,46 @@ The testbed includes a comprehensive suite of Python scripts for automated testi
 3. **Running Tests**:
    ```bash
    python Testing_Comb.py
+
+## PCBWay - PCB Manufacturing and Assembly
+![PCBWay](./Images/pcbway.png)
+This project was proudly sponsored by **PCBWay**, a leading PCB manufacturer and assembler. They provided high-quality PCB manufacturing and assembly services, ensuring that the ATS-2 board was produced to the highest standards. Here's why PCBWay is a great choice for PCB production:
+
+- **Exceptional Quality**: The PCBs produced by PCBWay have excellent build quality, with precise soldering and thorough assembly.
+- **Fast Service**: PCBWay offers quick turnaround times, so your project can stay on track.
+- **Comprehensive Services**: From prototyping to mass production, PCBWay provides services for all stages of PCB development, including multi-layer PCBs, advanced PCBs, flexible PCBs, and assembly services.
+- **Affordable Pricing**: PCBWay offers competitive pricing without compromising quality.
+
+To order this board through PCBWay:
+1. Upload the provided Gerber files to PCBWay's portal
+2. Select your preferences:
+   - Min Track/spacing: 6/6 mil
+   - Min hole size: 0.2mm
+   - Recommended finish: Immersion Gold (ENIG)
+
+If you're looking for a reliable partner to bring your PCB projects to life, check out [PCBWay](https://pcbway.com). With their extensive capabilities and top-notch customer support, PCBWay is the ideal choice for makers, engineers, and businesses alike.
+
+## PCB Features
+- Custom designed device interface board
+- Relay-based switching matrix for flexible test configuration
+- Support for dual device testing
+- Professional 4-layer PCB design
+- Integrated power management for both DUT and relay control
+- Comprehensive test point access
+- Industrial-grade components for reliability
+
+## License
+This project is open-source and available under the MIT License.
+
+## Contributing
+Contributions are welcome! Please feel free to submit pull requests or open issues for improvements and bug fixes.
+
+## Authors
+- Megan Lehmann
+- Texas Tech University
+- ECE 5332: Principals of Device Testing and Verification
+
+## Acknowledgments
+- Mr. Johnston and Dr. Dallas for project supervision
+- National Instruments for VirtualBench support
+- PCBWay for manufacturing partnership
