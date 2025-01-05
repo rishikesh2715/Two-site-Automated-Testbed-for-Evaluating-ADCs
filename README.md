@@ -104,12 +104,7 @@ This project is open-source and available under the MIT License.
 ## Contributing
 Contributions are welcome! Please feel free to submit pull requests or open issues for improvements and bug fixes.
 
-## Authors
-- Megan Lehmann
-- Texas Tech University
-- ECE 5332: Principals of Device Testing and Verification
-
 ## Acknowledgments
-- Mr. Johnston and Dr. Dallas for project supervision
+- Mr. Johnston and Dr. Dallas at Texas Tech University for project supervision
 - National Instruments for VirtualBench support
 - PCBWay for manufacturing partnership
